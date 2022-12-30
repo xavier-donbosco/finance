@@ -1,0 +1,11 @@
+finance:
+  outputs:
+    dev:
+      catalog: null
+      host: adb-3925591719077731.11.azuredatabricks.net
+      http_path: sql/protocolv1/o/3925591719077731/1127-080850-8h8sh280
+      schema: finance
+      threads: 1
+      token: dapi4e5ab8475199430bbc970003de0701e5-2
+      type: databricks
+  target: dev
